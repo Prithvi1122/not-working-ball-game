@@ -1,2 +1,2 @@
-# not-working-ball-game
-game was not working
+# synchronousBallMovement
+Ball moving synchronously
